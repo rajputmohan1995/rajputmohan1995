@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajputmohan1995" alt="rajputmohan1995" /></a> </p>
 
-- 🌱 I’m currently learning **DS & Algorithms**
+- 🌱 I’m currently learning **Microservices & Azure Services**
 
 - 📫 How to reach me **rajputmohan1995@gmail.com**
 
